@@ -1,0 +1,7 @@
+echo "# Fatalist-Chess-Club" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/FatalistEuronet/Fatalist-Chess-Club.git
+git push -u origin main
